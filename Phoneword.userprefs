@@ -1,5 +1,9 @@
 ﻿<Properties StartupItem="Droid/Phoneword.Droid.csproj">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword/MainPage.cs">
+    <Files>
+      <File FileName="Phoneword/MainPage.cs" Line="7" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Phoneword.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CFCAB986-C0C3-40BB-99BE-6F0E7C0658AA" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

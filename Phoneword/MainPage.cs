@@ -21,7 +21,7 @@ namespace Phoneword
 			};
 			Label lblTitle = new Label
 			{
-				Text = "Enter a Phoneword:"
+				Text = "Enter a Phone Word:"
 			};
 
 			txtPhoneNumber = new Entry
